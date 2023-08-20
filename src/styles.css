@@ -100,3 +100,16 @@ li {
   left: 100px;
   bottom: 37px;
 }
+
+a {
+  position: relative;
+  left: 500px;
+  font-family: monospace;
+  color: #394b59;
+}
+.name {
+  position: relative;
+  left: 495px;
+  color: rgb(0, 0, 0);
+  font-family: monospace;
+}
