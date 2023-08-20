@@ -46,7 +46,6 @@ li {
   font-size: 20px;
 }
 
-
 .weather-icon {
   position: relative;
   bottom: 15px;
@@ -55,7 +54,6 @@ li {
   margin-bottom: 20px;
   margin-top: 20px;
 }
-
 
 .btn-secondary {
   background-color: rgb(48, 48, 48);
@@ -66,7 +64,6 @@ li {
   color: black;
   background-color: white;
 }
-
 
 .form-control {
   border: 1px solid black;
@@ -103,5 +100,3 @@ li {
   left: 100px;
   bottom: 37px;
 }
-
-
