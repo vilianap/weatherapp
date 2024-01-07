@@ -93,7 +93,8 @@ li {
 }
 .first-column {
   position: relative;
-  right: 30px;
+  left: 100px;
+  top: 19px;
 }
 .second-column {
   position: relative;
