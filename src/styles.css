@@ -72,45 +72,19 @@ li {
 .search-form {
   background-color: rgb(175, 173, 173);
 }
-.units-forecast {
-  font-size: 15px;
-  position: relative;
-  top: -35px;
-  left: 60px;
-}
-.forecast-temperature {
-  margin-top: 40px;
-  position: relative;
-  left: 40px;
-}
-.forecast-days {
-  position: relative;
-  left: 50px;
-  font-family: sans-serif;
-  margin-top: -25px;
-  font-weight: bold;
-  color: rgb(151, 151, 151);
-}
-.first-column {
-  position: relative;
-  left: 100px;
-  top: 19px;
-}
-.second-column {
-  position: relative;
-  left: 100px;
-  bottom: 37px;
+
+.weather-forecast {
+  margin-top: 20px;
+  text-align: center;
 }
 
-a {
-  position: relative;
-  left: 500px;
-  font-family: monospace;
-  color: #394b59;
+.weather-forecast-date {
+  font-size: 16px;
 }
-.name {
-  position: relative;
-  left: 495px;
-  color: rgb(0, 0, 0);
-  font-family: monospace;
+.weather-forecast-temperatures {
+  font-size: 13px;
+}
+
+.weather-forecast-temperature-min {
+  opacity: 0.5;
 }
